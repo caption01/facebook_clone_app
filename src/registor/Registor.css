@@ -1,0 +1,13 @@
+.registor-form {
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+}
+
+.registor-form-body {
+    width: 80vw;
+}
+
+.row-item-center {
+    align-items: center;
+}

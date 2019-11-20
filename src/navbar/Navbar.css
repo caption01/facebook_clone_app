@@ -1,0 +1,31 @@
+#navbar-body {
+    justify-content: center;
+}
+
+.navbar-body-content {
+    width: 80vw;
+    display: flex;
+}
+
+#navbar-text-header {
+    font-size: 2rem;
+}
+
+.navbar-body-col {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-logo {
+    height: 38px;
+}
+
+.navbar-logo-profile {
+    height: 26px;
+}
+
+.navbar-logo-icon {
+    color: black;
+    font-size: 24px;
+}
+
